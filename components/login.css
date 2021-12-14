@@ -1,0 +1,32 @@
+.masuk{
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.emailpass{
+    font-size: 13px !important;
+    font-weight: 100;
+}
+
+.forgot-password{
+    padding-top: 0px;
+}
+
+.lupapass{
+    color: rgb(255, 166, 0) !important;
+}
+
+.btn-primary{
+    color: #fff;
+    background-color: #2eac80;
+    border-color: #2eac80;
+}
+
+.blm{
+    padding-top: 12px;
+    font-weight: 600;
+}
+
+.daftar{
+    color: rgb(236, 55, 137);
+}
